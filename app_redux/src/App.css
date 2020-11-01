@@ -1,0 +1,54 @@
+
+.li_group{
+    padding-top: 3rem;
+}
+
+form{
+    padding-bottom: 3rem;
+}
+
+li{
+    cursor: pointer;
+    list-style: none;
+    color: #ffffff;
+    padding: .8rem 1.2rem;
+    background-color: #3F243C;
+    margin-top: .5rem;
+    border-radius: .5rem;
+}
+
+.todo_list{
+    margin-top: 3rem;
+}
+
+.header{
+    height: 10rem;
+    background-color: #71446E;
+}
+
+h2{
+    padding-top: 2.7rem;
+    color: #ffffff;
+    font-weight: bold;
+}
+
+body{
+    background-color: #492C47;
+}
+
+.todo_item{
+    padding: 2rem 2rem;
+    background-color: #4D2F4D;
+}
+
+.input_group{
+    background-color: #ffffff;
+}
+
+label{
+    font-size: 1.1rem;
+}
+
+p{
+    
+}
